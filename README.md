@@ -1,2 +1,2 @@
 # myApp1
-testingIonic
+testingIonic from 0
